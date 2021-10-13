@@ -13,4 +13,4 @@
 
 Feito por Aridson Filho.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/aridsonf) 
+[![Linkedin Badge](https://img.shields.io/badge/-Aridson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aridsonf/)](https://www.linkedin.com/in/aridsonf) 
