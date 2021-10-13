@@ -5,12 +5,12 @@
 ### Autor
 ---
 
-<a href="">
+<a href="https://github.com/aridsonf">
 
  <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ <sub><b>Aridson Filho</b></sub></a>
 
 
-Feito com ❤️ por Thiago Marinho 👋🏽 Entre em contato!
+Feito por Aridson Filho.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/aridsonf) 
