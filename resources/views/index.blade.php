@@ -52,4 +52,7 @@
        {{$book->links("pagination::bootstrap-4")}}
     </div> 
 </div>
-@endsection()
+
+<script src="{{url("assets/js/delete_ajax.js")}}"></script>
+
+@endsection

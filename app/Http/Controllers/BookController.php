@@ -60,7 +60,11 @@ class BookController extends Controller
             'pages'=>$request->pages
         ]);
         if($cad){
-            return redirect('books');
+            //return redirect('books');
+            $update['success'] = true;
+            $update['message'] = 'Cadastro realizado com sucesso!';
+            echo json_encode($update);
+            return;
         }
     }
 
@@ -104,7 +108,12 @@ class BookController extends Controller
             'id_user'=>$request->id_user,
             'pages'=>$request->pages
         ]);
-        return redirect('books');
+        $update['success'] = true;
+        $update['message'] = 'Atualização realizada com sucesso!';
+        echo json_encode($update);
+        return;
+        //return redirect('books');
+        //return($upd)?"sim":"não";   
     }
 
     /**
