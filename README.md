@@ -1,5 +1,5 @@
 # CRUD-LARAVEL
-## CRUD feito em laravel para aprendizado do framework
+## CRUD teste feito em laravel 
 
 
 ### Autor
